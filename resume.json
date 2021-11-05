@@ -1,0 +1,147 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "work": "Experience",
+    "skills": "Skills",
+    "projects": "Summary",
+    "awards": "Certificates",
+    "education": "Education"
+  },
+  "basics": {
+    "name": "Swanagan Ray",
+    "email": "swanaganray@gmail.com",
+    "phone": "(740) 590-6357",
+    "website": "eewatchguy.com",
+    "location": {
+      "address": "Charleston, SC"
+    }
+  },
+  "education": [
+    {
+      "location": "Washington, DC",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "May 2021",
+      "endDate": "November 2022",
+      "institution": "Quantic School of Business and Technology"
+    },
+    {
+      "institution": "Ohio University",
+      "location": "Athens, OH",
+      "studyType": "BS",
+      "area": "Electrical Engineering",
+      "gpa": "3.8",
+      "startDate": "January 2011",
+      "endDate": "May 2015"
+    }
+  ],
+  "work": [
+    {
+      "company": "TIAG",
+      "location": "Charleston, SC",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "May 2021",
+      "endDate": "Present",
+      "highlights": [
+        "Contribute embedded systems code for logic controllers and ensure that all Software Development Life Cycle (SDLC) standards and success criteria are met. ",
+        "Develop best practices and security standards for the local org. ",
+        "Test control systems software for bugs and operating speeds, and documenting processes."
+      ]
+    },
+    {
+      "highlights": [
+        "Managed high hazard chemical plant operations with ~40 direct reports consisting of operators and engineers.",
+        "Managed performance of direct reports through goal setting, measurement, and 1-on-1’s.",
+        "Recruited, built, and coached cross-functional teams."
+      ],
+      "company": "DuPont",
+      "position": "Operations/Engineering Manager",
+      "location": "Moncks Corner, SC",
+      "startDate": "May 2019",
+      "endDate": "May 2021"
+    },
+    {
+      "highlights": [
+        "Successfully led software development for a $1.8M project to implement a new product using existing infrastructure, which included managing a 5-member, core project team.",
+        "Provided automation and control systems expertise for building designs as lead consultant/ subject matter expert on $27M new facility installation project.",
+        "Participated in international, new-product development team that developed relationships cross-culturally to share technology."
+      ],
+      "company": "Kuraray",
+      "position": "Automation Engineer",
+      "location": "Parkersburg, WV",
+      "startDate": "January 2017",
+      "endDate": "May 2019"
+    },
+    {
+      "highlights": [
+        "Implemented a $3M software/hardware migration project, replacing a Modicon PLC/HMI system with an ABB 800xA DCS, redesign of the backend framework.",
+        "Completed a Six Sigma Green Belt certification project with $57k/year savings by optimizing legacy box filling code."
+      ],
+      "company": "DuPont",
+      "position": "Control Systems Software Engineer",
+      "location": "Parkersburg, WV",
+      "startDate": "May 2015",
+      "endDate": "January 2017"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Javascript",
+        "C++",
+        "AWS",
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "CI/CD pipelines"
+      ],
+      "name": "Technology"
+    },
+    {
+      "keywords": [
+        "Mentoring",
+        "Staff development",
+        "Hiring",
+        "1-on-1s",
+        "Project management",
+        "Problem solving"
+      ],
+      "name": "Leadership"
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "keywords": [
+        ""
+      ],
+      "description": "A proven leader and continuous learner. My passion is for building cool products, developing new relationships, and learning new technologies. I love working on challenges, communicating complex ideas to non-technical stakeholders, and creating elegant solutions."
+    }
+  ],
+  "awards": [
+    {
+      "date": "July 2021",
+      "awarder": "Coursera",
+      "summary": "",
+      "title": "Google Project Management Certificate"
+    },
+    {
+      "title": "Lean Six Sigma Green Belt",
+      "date": "May 2015",
+      "awarder": "DuPont"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "projects",
+    "skills",
+    "work",
+    "education",
+    "awards"
+  ]
+}
